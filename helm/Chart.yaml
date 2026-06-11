@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-site-operations
+description: "BIAN Service Domain: Site Operations (Operate pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Technology and Operations"
+  bian/asset-type: "Site Operation"
+  bian/control-record: "Site Operation Operating Session"
